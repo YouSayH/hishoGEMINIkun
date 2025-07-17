@@ -1,0 +1,8 @@
+確認.py
+transcription_library.db
+token.json
+credentials.json
+calendar_config.txt
+*.wav
+jugyoV
+__pycache__
